@@ -32,3 +32,4 @@ class ModelTrainerArtifact:
     train_metric_artifact: ClassificationMetricArtifact
     test_metric_artifact: ClassificationMetricArtifact
 
+
